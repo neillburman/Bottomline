@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "PaymentSchedule/1.0.0": {
+        "dependencies": {
+          "ScheduleCalculator": "1.0.0"
+        },
+        "runtime": {
+          "PaymentSchedule.dll": {}
+        }
+      },
+      "ScheduleCalculator/1.0.0": {
+        "runtime": {
+          "ScheduleCalculator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PaymentSchedule/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ScheduleCalculator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

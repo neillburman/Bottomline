@@ -1,0 +1,14 @@
+C:\VS2019Apps\BottonLine\PaymentSchedule\PaymentSchedule\bin\Debug\netcoreapp3.1\PaymentSchedule.exe
+C:\VS2019Apps\BottonLine\PaymentSchedule\PaymentSchedule\bin\Debug\netcoreapp3.1\PaymentSchedule.deps.json
+C:\VS2019Apps\BottonLine\PaymentSchedule\PaymentSchedule\bin\Debug\netcoreapp3.1\PaymentSchedule.runtimeconfig.json
+C:\VS2019Apps\BottonLine\PaymentSchedule\PaymentSchedule\bin\Debug\netcoreapp3.1\PaymentSchedule.runtimeconfig.dev.json
+C:\VS2019Apps\BottonLine\PaymentSchedule\PaymentSchedule\bin\Debug\netcoreapp3.1\PaymentSchedule.dll
+C:\VS2019Apps\BottonLine\PaymentSchedule\PaymentSchedule\bin\Debug\netcoreapp3.1\PaymentSchedule.pdb
+C:\VS2019Apps\BottonLine\PaymentSchedule\PaymentSchedule\obj\Debug\netcoreapp3.1\PaymentSchedule.AssemblyInfoInputs.cache
+C:\VS2019Apps\BottonLine\PaymentSchedule\PaymentSchedule\obj\Debug\netcoreapp3.1\PaymentSchedule.AssemblyInfo.cs
+C:\VS2019Apps\BottonLine\PaymentSchedule\PaymentSchedule\obj\Debug\netcoreapp3.1\PaymentSchedule.dll
+C:\VS2019Apps\BottonLine\PaymentSchedule\PaymentSchedule\obj\Debug\netcoreapp3.1\PaymentSchedule.pdb
+C:\VS2019Apps\BottonLine\PaymentSchedule\PaymentSchedule\obj\Debug\netcoreapp3.1\PaymentSchedule.csprojAssemblyReference.cache
+C:\VS2019Apps\BottonLine\PaymentSchedule\PaymentSchedule\bin\Debug\netcoreapp3.1\ScheduleCalculator.dll
+C:\VS2019Apps\BottonLine\PaymentSchedule\PaymentSchedule\bin\Debug\netcoreapp3.1\ScheduleCalculator.pdb
+C:\VS2019Apps\BottonLine\PaymentSchedule\PaymentSchedule\obj\Debug\netcoreapp3.1\PaymentSchedule.csproj.CopyComplete

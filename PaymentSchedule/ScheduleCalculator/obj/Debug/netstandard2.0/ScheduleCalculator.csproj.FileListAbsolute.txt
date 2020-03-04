@@ -1,0 +1,8 @@
+C:\VS2019Apps\BottonLine\PaymentSchedule\ScheduleCalculator\bin\Debug\netstandard2.0\ScheduleCalculator.deps.json
+C:\VS2019Apps\BottonLine\PaymentSchedule\ScheduleCalculator\bin\Debug\netstandard2.0\ScheduleCalculator.dll
+C:\VS2019Apps\BottonLine\PaymentSchedule\ScheduleCalculator\bin\Debug\netstandard2.0\ScheduleCalculator.pdb
+C:\VS2019Apps\BottonLine\PaymentSchedule\ScheduleCalculator\obj\Debug\netstandard2.0\ScheduleCalculator.csprojAssemblyReference.cache
+C:\VS2019Apps\BottonLine\PaymentSchedule\ScheduleCalculator\obj\Debug\netstandard2.0\ScheduleCalculator.AssemblyInfoInputs.cache
+C:\VS2019Apps\BottonLine\PaymentSchedule\ScheduleCalculator\obj\Debug\netstandard2.0\ScheduleCalculator.AssemblyInfo.cs
+C:\VS2019Apps\BottonLine\PaymentSchedule\ScheduleCalculator\obj\Debug\netstandard2.0\ScheduleCalculator.dll
+C:\VS2019Apps\BottonLine\PaymentSchedule\ScheduleCalculator\obj\Debug\netstandard2.0\ScheduleCalculator.pdb
